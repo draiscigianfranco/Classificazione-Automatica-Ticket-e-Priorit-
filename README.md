@@ -5,7 +5,7 @@ Descrizione del progetto: Sistema di Machine Learning in Python per la generazio
 
 Puoi aprire ed eseguire l'intero progetto direttamente nel tuo browser senza installare nulla cliccando sul pulsante qui sotto:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/draiscigianfranco/Classificazione-Automatica-Ticket-e-Priorit-/blob/main/PROJECT_WORK.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/draiscigianfranco/Classificazione-Automatica-Ticket-e-Priority/blob/main/PROJECT_WORK.ipynb)
 
 ---
 
